@@ -1,4 +1,4 @@
-# 📨 PythonMail - Send E-Mails with a simple Python script!
+# 📨 PythonMail - Send E-Mails with Python!
 
 ## What's the PythonMail Bot?
 The PythonMail Bot allow you to send a Mail to every E-Mail you want, fast and easy to use. (Only SMTP-Server)
