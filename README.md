@@ -5,6 +5,8 @@ The PythonMail Bot allow you to send a Mail to every E-Mail you want, fast and e
 
 ## The Usage:
 #### The Setup:
+-> [Download the Script here at GitHub](https://github.com/ARealWant/PythonMail/releases/tag/1.0)
+
 - `port`: [What is an E-Mail Port?](https://www.mailgun.com/blog/which-smtp-port-understanding-ports-25-465-587/)
 - `smtp_server`: [What is an SMPT Server?](https://sendgrid.com/blog/what-is-an-smtp-server/)
 - `sender_email`: Enter the Sendermail of your SMTP Server here, f.e. "Marc@domain.com".
