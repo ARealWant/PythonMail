@@ -15,3 +15,5 @@ The PythonMail Bot allow you to send a Mail to every E-Mail you want, fast and e
 - `message`: Enter the Message you want to send here. (As far as you want to type anything in the Subject you have to type "Subject: "TEXT" in.)
 
 ##### Developed by ARealWant.tech
+
+https://repository-images.githubusercontent.com/299939311/6277c380-0338-11eb-8c7e-6268478e3b89
